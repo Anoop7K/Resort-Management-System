@@ -11,7 +11,7 @@ This SQL database provides a comprehensive management system for resort operatio
 - **Employee Records**: Store staff information with salary details
 - **Transaction Processing**: Record payment methods and amounts
 
-## Sample Queries Included
+## Queries Included
 The database includes 10 practical queries that demonstrate:
 - Room availability reports
 - Activity popularity analysis
