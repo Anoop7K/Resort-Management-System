@@ -18,6 +18,3 @@ The database includes 10 practical queries that demonstrate:
 - Guest spending patterns
 - Payment method tracking
 - Resort occupancy statistics
-
-## Schema Diagram
-![Resort Database Schema](ER_Diagram.png)
