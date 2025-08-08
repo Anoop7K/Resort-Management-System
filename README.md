@@ -1,1 +1,1 @@
-# Resort-Management-Tool
+# Resort-Management-System
